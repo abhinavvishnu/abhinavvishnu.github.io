@@ -10,4 +10,4 @@ A team of Machine Learning researchers in HPC group Joseph Manzano, Abhinav Vish
 
 “Existing efforts for distributed TensorFlow require extensive changes to existing TensorFlow scripts. This is problematic for Deep Learning analysts, since they are not HPC experts. Our MaTEx-TensorFlow effort is to bridge that critical gap”, said Abhinav Vishnu, the overall project lead. 
 
-The code is available here: https://github.com/abhinavvishnu/matex. Please contact abhinav.vishnu@pnnl.gov for questions/comments.
+The code is available here: [https://github.com/abhinavvishnu/matex](https://github.com/abhinavvishnu/matex). Please contact [abhinav.vishnu@pnnl.gov](abhinav.vishnu@pnnl.gov) for questions/comments.
