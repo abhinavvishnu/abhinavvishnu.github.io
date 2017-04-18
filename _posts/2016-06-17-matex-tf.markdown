@@ -38,4 +38,3 @@ abstracted from users. Lastly -- and arguably most importantly -- we make our
 implementation available for broader use, under the umbrella of Machine
 Learning Toolkit for Extreme Scale (MaTEx) at  http://hpc.pnl.gov/matex. We
 refer to our implementation as MaTEx-TensorFlow.
-
