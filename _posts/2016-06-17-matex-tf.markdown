@@ -5,9 +5,9 @@ date:   2017-04-17 12:30:00
 excerpt: "First Release for User-Transparent MaTEx TensorFlow"
 ---
 
-A team of Machine Learning researchers in HPC group Joseph Manzano, Abhinav Vishnu, Jeff Daily and NSD researcher Charles Siegel have developed novel techniques to scale Google TensorFlow on large scale systems using MPI without requiring any TensorFlow specific changes to the users code. The runtime is developed under the umbrella of Machine Learning Toolkit for Extreme Scale (MaTEx) umbrella.
+A team of Machine Learning researchers in PNNL led by Abhinav Vishnu, Joseph Manzano, Charles Siegel and Jeff Daily have developed novel techniques to scale Google TensorFlow on large scale systems using MPI without requiring any TensorFlow specific changes to the users code. The runtime is developed under the umbrella of Machine Learning Toolkit for Extreme Scale (MaTEx) umbrella.
 
-“Existing efforts for distributed TensorFlow require extensive changes to existing TensorFlow scripts. This is problematic for Deep Learning analysts, since they are not HPC experts. Our MaTEx-TensorFlow effort is to bridge that critical gap”, said Abhinav Vishnu, the overall project lead. 
+“Existing efforts for distributed TensorFlow require extensive changes to TensorFlow scripts. This is problematic for Deep Learning analysts, since they are not HPC experts. Our MaTEx-TensorFlow effort is to bridge that critical gap, where no TensorFlow specific changes are required to execute on large scale CPU/GPU clusters”, said Abhinav Vishnu, the overall project lead. 
 
 The paper that describes the effort "User-transparent Distributed TensorFlow" is available here:https://arxiv.org/pdf/1704.04560.pdf
 
