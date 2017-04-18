@@ -2,7 +2,6 @@
 layout: post
 title:  "User-Transparent Distributed TensorFlow"
 date:   2017-04-17 12:30:00
-categories: TensorFlow, Distributed
 excerpt: "First Release for User-Transparent MaTEx TensorFlow"
 ---
 
