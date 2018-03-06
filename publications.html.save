@@ -1,0 +1,282 @@
+<body>
+		<html>
+				<div id="container" style="width:1280px">
+
+						<div id="header" style="background-color:#FFA500;">
+								<h1 style="margin-bottom:0;">Abhinav Vishnu</h1></div>
+
+						<div id="menu" style="background-color:#FFD705;width:200px;float:left;">
+								<b>Homepage</b><br />
+								<b>Research</b><br />
+								<b>Publications</b><br />
+								<b>Professional Activties</b><br />
+								<b>News</b><br />
+								<b>Useful Links</b><br />
+								<b>Personal</b><br />
+						</div>
+
+						<div id="content" 
+								style
+								="background-color:#EEEEEE;width:1080px;float:left;">
+
+				<b>	Patents: </b>
+				<p>
+				Flow Control For Reliable Message Passing (with Tsai Yang Jea,
+				Hung Thai, Hanhong Xue, Chulho Kim, Uman Chan and Zen Piatek),
+				IBM, Pending.
+				</p>
+				
+				<b>Books Edited:</b>
+
+				<p>
+				P. Balaji, A. Vishnu. Programming Models and Systems Software
+				for High End Computing Applications. Special Issue of the
+				International Journal of High Performance Computing
+				Applications, Volume 25, No. 2, Feb, 2011. </p>
+				<p>
+				P. Balaji, A. Vishnu. Programming Models and Systems Software
+				for High End Computing Applications. Special Issue of the
+				International Journal of High Performance Computing
+				Applications, Volume 24, No. 3, Jul, 2010. </p>
+
+				<b>Journal Publications: </b>
+
+				<p>G. L. Valentini, W. Lassonde, S. U. Khan, N. Min-Allah, S. A.
+				Madani, J. Li, L. Zhang, L. Wang, N. Ghani, J. Kolodziej, H.
+				Li, A. Y. Zomaya, C.-Z. Xu, P. Balaji, A. Vishnu, F. Pinel, J.
+				E. Pecero, D. Kliazovich and P Bouvry. An Overview of Energy
+				Efficiency in Cluster Computing Systems. Special Issue on
+				Cluster Computing, Journal of Supercomputing (JoSC), 2011 </p>
+				
+				<p>P. Balaji, R. Gupta, A. Vishnu, and P. Beckman. Mapping
+				Communication Layouts to Network Hardware Characteristics on
+				Massive-Scale Blue Gene Systems. Special Edition of the
+				Springer Journal of Computer Science on Research and
+				Development (Presented at the International Supercomputing
+				Conference (ISC)), 2011. </p>
+
+				<p>H. V. Dam, A. Vishnu, and W. D. Jong. Designing A Scalable
+				Fault Tolerance Model for Computational Chemistry: A Case Study
+				with Coupled Cluster Perturbative Triples. Journal of Chemical
+				Theory and Computation, Jan, 2011.</p>
+
+				<p>A. Vishnu, M. Koop, A. Moody, A. Mamidala, S. Narravula and
+				D. K. Panda. Topology Agnostic Hot-Spot Avoidance With
+				InfiniBand. Concurrency and Computation: Practice and
+				Experience, June, 2009.</p> <p>J. Liu, A. Mamidala, A. Vishnu,
+				and D. K. Panda. Evaluating InfiniBand Performance with
+				PCI-Express. IEEE Micro, February, 2005.</p>
+
+				<b>Conference and Workshop Publications: </b>
+
+				<p>J. Dinan, S. Krishnamoorthy, P. Balaji, J. Hammond, M.
+				Krishnan, V. Tipparaju and A. Vishnu. Noncollective
+				Communicator Creation in MPI. The Euro MPI Users’ Group
+				Conference (EuroMPI); special session on Improving MPI User and
+				Developer Interaction (IMUDI). Sep. 18-21, 2011, Santorini,
+				Greece.</p>
+
+				<p>D. Kerbyson, A. Vishnu, and K. Barker. Energy Templates:
+				Exploiting Application Information for Saving Energy.
+				International Conference on Cluster Computing (Cluster),
+				Austin, 2011.</p>
+
+				<p>A. Vishnu, R. Olson, and M. Bruggencate. Evaluating the
+				Potential of Cray Gemini Interconnect for PGAS Models.
+				International Symposium on High-Performance Interconnects
+				(HotI), Santa Clara, 2011.</p>
+
+				<p>A. Vishnu, M. Krishnan, and P. Balaji. Dynamic Time-Variant
+				Connection Management for PGAS Models on InfiniBand. Workshop
+				on Communication Architecture for Scalable Systems (CASS),
+				International Parallel and Distributed Processing Symposium
+				(IPDPS), Alaska, 2011.</p>
+
+				<p>C.Y Su, S. Song, R. Ge, K. Cameron, and A. Vishnu.
+				Iso-energy-efficiency: An Approach to Power-Constrained
+				Parallel Computation. International Parallel and Distributed
+				Processing Symposium (IPDPS), Alaska, 2011.</p>
+
+				<p>A. Vishnu, S. Song, A. Marquez, K. Barker, D. Kerbyson and P.
+				Balaji. Designing Energy Efficient Communication Runtime
+				Systems for Data Centric Programming Models. International
+				Conference on Green Computing and Communications (GreenCom),
+				China, 2010.</p>
+
+				<p>A. Vishnu, H. V. Dam, W. D. Jong, P. Balaji, S. Song. Fault
+				Tolerant Communication Runtime Support for Data Centric
+				Programming Models. International Conference on High
+				Performance Computing (HiPC), India, 2010.</p>
+
+				<p>M. Krishnan, B. Lewis, A. Vishnu. Scaling Linear Algebra
+				Kernels Using Remote Memory Access. Third International
+				Workshop on Parallel Programming Models and Systems Software
+				for High-End Computing (P2S2), held in conjunction with
+				International Conference on Parallel Processing (ICPP), San
+				Diego, 2010.</p>
+
+				<p>K. Kandalla, H. Subramoni, A. Vishnu and D. K. Panda. Designing
+				Efficient Topology Aware Collective Communication Algorithms
+				for Large Scale InfiniBand Clusters: A Case Study with Scatter
+				and Gather. International Workshop on Communication
+				Architecture of Clusters (CAC), held in conjunction with
+				International Parallel and Distributed Processing Symposium
+				(IPDPS), Atlanta, GA, 2010.</p>
+
+				<p>A. Vishnu, and M. Krishnan. Efficient On-demand Connection
+				Management Mechanisms with PGAS Models on InfiniBand.
+				International Symposium on Cluster Computing and Grid Computing
+				(CCGrid), Melbourne, Australia, May 2010.</p>
+
+				<p>A. Vishnu, M. Krishnan and D. K. Panda. A Hardware-Software
+				Approach to Network Fault Tolerance with InfiniBand.
+				International Conference on Cluster Computing (Cluster), New
+				Orleans, 2009.</p>
+
+				<p>S. Narravula, A. Mamidala, A. Vishnu, G. Santhanaraman and D.
+				K. Panda. High Performance MPI over iWARP: Early Experiences.
+				International Conference on Parallel Processing (ICPP), XiAn,
+				China, 2007.</p>
+
+				<p>A. Vishnu, M. Koop, A. Moody, A. Mamidala, S. Narravula and D.
+				K. Panda. Hot-Spot Avoidance With Multi-Pathing Over
+				InfiniBand: An MPI Perspective. International Symposium on
+				Cluster Computing and Grid (CCGrid), Rio De Janeiro, Brazil,
+				2007.</p>
+
+				<p>S. Narravula, A. Mamidala, A. Vishnu, G. Santhanaraman and D.
+				K. Panda, High Performance Distributed Lock Management Services
+				using Network-based Remote Atomic Operations, International
+				Symposium on Cluster Computing and Grid (CCGrid), Rio De
+				Janeiro, Brazil, 2007.</p>
+
+				<p>A. Vishnu, A. Mamidala, S. Narravula and D. K. Panda .
+				Automatic Path Migration over InfiniBand: Early Experiences.
+				Third International Workshop on System Management Techniques,
+				Processes, and Services (SMTPS), held in conjunction with
+				International Parallel and Distributed Processing Symposium
+				(IPDPS), 2007.</p>
+
+				<p>A. Vishnu, B. Benton and D. K. Panda. High Performance MPI on
+				IBM 12x InfiniBand Architecture. International Workshop on
+				High-Level Parallel Programming Models and Supportive
+				Environments (HIPS), held in conjunction with International
+				Parallel and Distributed Processing Symposium (IPDPS), 2007.</p>
+
+				<p>A. Mamidala, S. Narravula, A. Vishnu,G. Santhanaraman and D. K.
+				Panda. Using Connection-Oriented and Connection-Less Transport
+				on Performance and Scalability of Collective and One-sided
+				operations: Trade-offs and Impact. International Symposium on
+				Principles and Practice of Parallel Programming (PPoPP), 2007,
+				California.</p>
+
+				<p>A. Vishnu, P. Gupta, A. Mamidala and D. K. Panda. A Software
+				Based Approach for Providing Network Fault Tolerance in
+				Clusters Using the uDAPL Interface: MPI Level Design and
+				Performance Evaluation. International Conference for High
+				Performance Computing, Networking, Storage and Analysis (SC),
+				2006, Tampa, FL.</p>
+
+				<p>A. Mamidala, A. Vishnu, and D. K. Panda. Efficient Shared
+				Memory and RDMA based design for MPI Allgather over InfiniBand,
+				EuroPVM/MPI, September 2006.</p>
+
+				<p>M. Koop, W. Huang, A. Vishnu, and D. K. Panda. Memory
+				Scalability Evaluation of the Next Generation Intel Bensley
+				Platform for InfiniBand. International Symposium on High
+				Performance Interconnects, (HotI), August 2006, Stanford, CA.</p>
+
+				<p>A. Vishnu, G. Santhanaraman, W. Huang, H. -W. Jin and D. K.
+				Panda. Supporting MPI-2 One Sided Communication on Multi-Rail
+				InfiniBand Clusters: Design Challenges and Performance
+				Benefits. International Conference on High Performance
+				Computing (HiPC), December 18-21, 2005, Goa, India.</p>
+
+				<p>S. Sur, A. Vishnu, H. -W. Jin and D. K. Panda. Can Memory-Less
+				Network Adapters Benefit Next-Generation InfiniBand Systems?.
+				International Symposium on High Performance Interconnects,
+				(HotI 2005), August 2005, Stanford, CA.</p>
+
+				<p>A. Vishnu, A. R. Mamidala, H. -W. Jin and D. K. Panda.
+				Performance Modeling of Subnet Management on Fat Tree
+				InfiniBand Networks using OpenSM. Workshop on System Management
+				Tools on Large Scale Parallel Systems (SMTPS), Held in
+				Conjunction with International Parallel and Distributed
+				Processing Symposium (IPDPS), 2005, Denver, Colorado.</p>
+
+				<p>J. Liu, A. Vishnu, and D. K. Panda. Building Multirail
+				InfiniBand Clusters: MPI-Level Design and Performance
+				Evaluation. International Conference for High Performance
+				Computing, Networking, Storage and Analysis (SC), 2004.</p>
+
+				<p>J. Liu, A. Mamidala, A. Vishnu, and D. K. Panda. Performance
+				Evaluation of InfiniBand with PCI-Express. International
+				Symposium on High Performance Interconnects (HotI), 2004. </p>
+
+				<b> Select Technical Posters:</b>
+
+				<p>A. Vishnu, K. Gopalakrishnan and D. K. Panda. Designing Fault
+				Resilient and Fault Tolerant Systems with InfiniBand. National
+				HPC Workshop on Resilience, August, 2009, Washington, DC. </p>
+
+				<b>Select Technical Reports:</b>
+
+				<p>S. Narravula, A. Mamidala, A. Vishnu, G. Santhanaraman and D.
+				K. Panda, High Performance Distributed Lock Management Services
+				using Network-based Remote Atomic Operations,
+				OSU-CISRC-4/07-TR29.</p>
+
+				<p>S. Narravula, A. Mamidala, A. Vishnu, and D. K. Panda, High
+				Performance MPI over iWARP: Early Experiences,
+				OSU-CISRC-4/07-TR28.</p>
+
+				<p>A. Vishnu, A. Mamidala, S. Narravula and D. K. Panda .
+				Automatic Path Migration over InfiniBand: Early Experiences ,
+				OSU-CISRC-5/06-TR57</p>
+
+				<p>A. Vishnu, B. Benton and D. K. Panda. High Performance MPI on
+				IBM 12x InfiniBand Architecture, OSU-CISRC-5/06-TR56</p>
+
+				<p>A. Mamidala, S. Narravula, A. Vishnu,G. Santhanaraman and D. K.
+				Panda. Using Connection-Oriented and Connection-Less Transport
+				on Performance and Scalability of Collective and One-sided
+				operations: Trade-offs and Impact, OSU-CISRC-11/06-TR77.</p>
+
+				<p>A. Vishnu, G. Santhanaraman, W. Huang, H. -W. Jin and D. K.
+				Panda. Supporting MPI-2 One Sided Communication on Multi-Rail
+				InfiniBand Clusters: Design Challenges and Performance
+				Benefits, OSU-CISRC-5/05-TR33.</p>
+
+				<p>A. Vishnu, A. R. Mamidala, H. -W. Jin and D. K. Panda.
+				Performance Modeling of Subnet Management on Fat Tree
+				InfiniBand Networks using OpenSM, OSU-CISRC-1/05-TR05.</p>
+
+				<p>J. Liu, A. Vishnu, and D. K. Panda. Building Multirail
+				InfiniBand Clusters: MPI-Level Design and Performance
+				Evaluation, OSU-CISRC-5/04-TR26.</p>
+
+				<b>Dissertation/Thesis:</b>
+
+				<p>High Performance and Network Fault Tolerant MPI with
+				Multi-Pathing Over InfiniBand, Ph.D. Dissertation, The Ohio
+				State University, 2007.</p>
+
+				<b>Invited Papers:</b>
+
+				<p>K. Barker, D. Kerbyson, A. Hoisie, A. Marquez, A. Vishnu
+				Exploring Power Consumption in Extreme Scale Systems, Scalable
+				Approaches to High Performance and High Productivity Computing
+				(ScalaPerf), Bertinoro, Italy. Sep 2010.</p>
+
+		</div>
+
+		<div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
+				Abhinav Vishnu</div>
+
+</div>
+
+
+		</html>
+</body>
+
+
